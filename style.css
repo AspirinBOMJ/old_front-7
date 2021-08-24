@@ -665,7 +665,7 @@ body._pc .get-button:hover{
 @media (max-width: 750px){
     .header__menu{
         position: fixed;
-        top: -100%;
+        top: -150%;
         left: 0;
         width: 100vw;
         height: calc(100vh - 69px);
